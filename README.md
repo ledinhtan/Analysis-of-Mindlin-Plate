@@ -13,7 +13,7 @@ the plate with the Mindlin theory.
 - [Le Dinh Tan](https://github.com/ledinhtan)
 
 
-## Plate Problem
+## A Plate Problem
 
 A given structure of plate made of steel has Young modulus E = 200
 gPa and Poisson's ratio nu = 0.3. The size of plate is 400x400x2
